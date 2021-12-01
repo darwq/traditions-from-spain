@@ -165,6 +165,17 @@ h2 {
   margin: 3.5% auto;
 }
 
+/* QUIZ */
+
+.menu .quiz {
+  transform: translateX(25%);
+  font-size: 1.5rem;
+}
+
+.menu .quiz li a {
+  color: purple;
+}
+
 /* FOOTER */
 
 .footer {
